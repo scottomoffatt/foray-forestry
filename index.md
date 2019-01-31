@@ -33,9 +33,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
+  content: "<em>WHY OH WHY, DID SHE SWALLOW THAT FLY!!</em>"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2019/01/31/artboard-4.svg"
