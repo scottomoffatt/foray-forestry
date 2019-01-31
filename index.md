@@ -28,7 +28,7 @@ page_sections:
   headline: "<strong>Custom, yo!</strong>"
   content: dsdsaaaads I don't know what this will look like
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: "/uploads/2019/01/31/patio.png"
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
