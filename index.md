@@ -45,7 +45,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
-published: false
 
 ---
 foo bar
