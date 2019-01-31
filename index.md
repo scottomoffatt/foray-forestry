@@ -9,6 +9,8 @@ page_sections:
   navigation:
   - link: home
     link_text: home
+  - link: about
+    link_text: about
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
