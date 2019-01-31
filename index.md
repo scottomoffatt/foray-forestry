@@ -11,6 +11,8 @@ page_sections:
     link_text: home
   - link: about
     link_text: about
+  - link: contact
+    link_text: contact
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
