@@ -15,9 +15,9 @@ page_sections:
     link_text: contact
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: TITTLE TITLE TITLE
+  content: dnsdnasnds dsadjasdasdnsandan d sad sadsa das dsa dsdasd sadsa dasdsadas
+    dsad as
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
