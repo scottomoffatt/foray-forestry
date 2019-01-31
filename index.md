@@ -23,7 +23,7 @@ page_sections:
     url: ''
     button_text: 'See on GitHub '
   image:
-    image: ''
+    image: "/uploads/2019/01/31/sa-01.svg"
     alt_text: Product Shot
   background_image: "/uploads/2019/01/31/artboard-4.svg"
 - template: content-feature
