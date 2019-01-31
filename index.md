@@ -19,8 +19,8 @@ page_sections:
   content: dnsdnasnds dsadjasdasdnsandan d sad sadsa das dsa dsdasd sadsa dasdsadas
     dsad as
   cta:
-    enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
+    enabled: false
+    url: ''
     button_text: 'See on GitHub '
   image:
     image: ''
