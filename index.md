@@ -15,7 +15,7 @@ page_sections:
     link_text: contact
 - template: hero-banner-w-image
   block: hero-2
-  headline: <img src="/uploads/2019/01/31/sa-01.svg">
+  headline: <img src="/uploads/2019/01/31/sa-01.svg">NEW
   content: welcome
   cta:
     enabled: false
