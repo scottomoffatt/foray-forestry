@@ -15,15 +15,14 @@ page_sections:
     link_text: contact
 - template: hero-banner-w-image
   block: hero-2
-  headline: TITTLE TITLE TITLE
-  content: dnsdnasnds dsadjasdasdnsandan d sad sadsa das dsa dsdasd sadsa dasdsadas
-    dsad as
+  headline: <img src="/uploads/2019/01/31/sa-01.svg">
+  content: welcome
   cta:
     enabled: false
     url: ''
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2019/01/31/sa-01.svg"
+    image: ''
     alt_text: Product Shot
   background_image: "/uploads/2019/01/31/artboard-4.svg"
 - template: content-feature
