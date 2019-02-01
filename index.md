@@ -16,7 +16,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: <img src="/uploads/2019/01/31/sa-01.svg">NEW
-  content: welcome
+  content: also<br>
   cta:
     enabled: false
     url: ''
